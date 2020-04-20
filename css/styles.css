@@ -1,0 +1,18 @@
+body{
+  background-color:#b0e0e6;
+}
+h1{
+  color:#00bcd4;
+}
+h3{
+  color:#00bcd4;
+}
+hr{
+  border: dotted grey 6px;
+  border-bottom: none;
+  width: 5%;
+}
+.copyright{
+  color:#eaf6f6;
+  text-align: center;
+}
